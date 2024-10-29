@@ -1,5 +1,4 @@
 # WiFi QR Code Generator
-
 The **WiFi QR Code Generator** is a web application that makes sharing WiFi credentials easy and secure. Quickly generate a QR code with your WiFi network details, enabling guests to connect by simply scanning the code—no more manual password entry required.
 
 Built with **HTML**, **CSS**, and **JavaScript**, this tool provides a responsive and user-friendly experience on both desktop and mobile devices. The clean interface allows users to input their WiFi details and create a QR code within seconds. Plus, you can download the QR code as a PNG for effortless sharing or printing.
